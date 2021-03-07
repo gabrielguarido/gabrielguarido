@@ -28,7 +28,7 @@ I'm Gabriel, 20-year-old Brazilian, and I'm a huge technology enthusiast with cr
 
 💼 &nbsp; Currently working as a Software Engineer at [Avenue Code](https://www.avenuecode.com/). <br/>
 🚀 &nbsp; Specializing in back-end development with Java. <br/>
-🎓 &nbsp; Graduating in Computer Systems' Analysis and Development at [FIAP](https://www.fiap.com.br/). <br/>
+🎓 &nbsp; Graduated in Computer Systems' Analysis and Development at [FIAP](https://www.fiap.com.br/). <br/>
 💬 &nbsp; Ask me about anything and I'll be happy to answer or help you to find the answer. <br/>
 
 💡 &nbsp; I have many hobbies, such as going to the gym 💪, cooking 🍪, playing soccer ⚽ and playing videogames 🎮.
