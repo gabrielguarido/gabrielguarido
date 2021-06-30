@@ -36,7 +36,7 @@ I'm Gabriel, 20-year-old Brazilian, and I'm a huge technology enthusiast with cr
     </tr>
       <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielguarido&repo=AlgamoneyAPI&theme=dracula" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielguarido&repo=health-mater-api&theme=dracula" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielguarido&repo=algafood-api&theme=dracula" /></td>
     </tr>  
   </table>
 </center>
