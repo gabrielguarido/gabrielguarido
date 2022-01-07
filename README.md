@@ -2,7 +2,7 @@
 
 I'm Gabriel, 21-year-old Brazilian, and I'm a huge technology enthusiast with creative instincts to solve problems, with over three years of experience in Software Analysis and Development. Experienced in working with customers and teammates from all over the world, such as the USA 🇺🇸, England 🇬🇧, Japan 🇯🇵, Spain 🇪🇸, Mexico 🇲🇽, Portugal 🇵🇹, India 🇮🇳, Vietnam 🇻🇳, and Brazil 🇧🇷. Fast learner and very excited about implementing innovative ideas and new technologies, in order to solve diverse customers' needs. Very motivated about working with different teams and sharing knowledge.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-guarido-oliveira/)](https://www.linkedin.com/in/gabriel-guarido-oliveira/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:gabrielguarido.oliveira@gmail.com)](mailto:gabrielguarido.oliveira@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/Brazil-Code)](https://github.com/Brazil-Code)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-guarido-oliveira/)](https://www.linkedin.com/in/gabriel-guarido-oliveira/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:gabrielguarido.oliveira@gmail.com)](mailto:gabrielguarido.oliveira@gmail.com)
 
 ---
 
