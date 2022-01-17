@@ -17,7 +17,7 @@ I'm Gabriel, 21-year-old Brazilian, and I'm a huge technology enthusiast with cr
 ![Oracle](https://img.shields.io/badge/-Oracle-ff0d00?style=flat&logoColor=white&logo=oracle) ![PostgreSQL](https://img.shields.io/badge/-Postgresql-19a7ff?style=flat&logoColor=white&logo=postgresql) ![MySQL](https://img.shields.io/badge/-Mysql-19a7ff?style=flat&logoColor=white&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-00d300f?style=flat&logoColor=white&logo=mongodb)
 
 ### Cloud Servers
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4e84f2?style=flat&logoColor=white&logo=google-cloud) ![AWS](https://img.shields.io/badge/-AWS%20S3-000?style=flat&logoColor=amazon&logo=amazon) ![Heroku](https://img.shields.io/badge/-Heroku-6600ff?style=flat&logoColor=white&logo=heroku)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4e84f2?style=flat&logoColor=white&logo=google-cloud) ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logoColor=amazon&logo=amazon) ![Heroku](https://img.shields.io/badge/-Heroku-6600ff?style=flat&logoColor=white&logo=heroku)
 
 ### Git
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logoColor=white&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-ff6c00?style=flat&logoColor=white&logo=gitlab) ![BitBucket](https://img.shields.io/badge/-BitBucket-1962e5?style=flat&logoColor=white&logo=bitbucket)
