@@ -1,6 +1,6 @@
 # Hi there 👋 let me introduce myself
 
-I'm Gabriel, 22-year-old Brazilian engineer, and I'm a huge technology enthusiast with creative instincts to solve problems. With over four years of experience in Software Engineering, I've been working with customers and teammates from all over the world, such as the USA 🇺🇸, England 🇬🇧, Japan 🇯🇵, Spain 🇪🇸, Mexico 🇲🇽, Portugal 🇵🇹, India 🇮🇳, Vietnam 🇻🇳, and Brazil 🇧🇷. Fast learner and very excited about implementing innovative ideas and new technologies in order to solve diverse customers' needs. Very motivated about working with different teams and sharing knowledge.
+I'm Gabriel, a 23-year-old Brazilian engineer with a strong passion for technology and a natural inclination for creative problem-solving. With more than four years of experience in the field of Software Engineering, I have had the privilege of collaborating with customers and teammates from various parts of the world, including the USA, England, Japan, Spain, Mexico, Portugal, India, Vietnam, and Brazil. I thrive on being a quick learner and implementing innovative ideas and cutting-edge technologies to address diverse customer needs. Working with different teams and sharing knowledge is something that deeply motivates me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-guarido-oliveira/)](https://www.linkedin.com/in/gabriel-guarido-oliveira/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:gabrielguarido.oliveira@gmail.com)](mailto:gabrielguarido.oliveira@gmail.com)
 
@@ -45,7 +45,7 @@ I'm Gabriel, 22-year-old Brazilian engineer, and I'm a huge technology enthusias
 
 💼 &nbsp; Currently working as a Software Engineer at [Avenue Code](https://www.avenuecode.com/). <br/>
 🚀 &nbsp; Specializing in back-end development with Java. <br/>
-🎓 &nbsp; Graduated in Computer Systems' Analysis and Development at [FIAP](https://www.fiap.com.br/). <br/>
+🎓 &nbsp; Graduated in Computer Systems Analysis and Development at [FIAP](https://www.fiap.com.br/). <br/>
 💬 &nbsp; Ask me about anything and I'll be happy to answer or help you to find the answer. <br/>
 
 💡 &nbsp; I have many hobbies, such as going to the gym 💪, cooking 🍪, playing soccer ⚽ and playing videogames 🎮.
