@@ -8,17 +8,17 @@ A highly motivated and enthusiastic technology professional, with over four year
 
 ---
 
-# 💻 &nbsp; Technology stack
+# 💻 &nbsp; Technology Stack
 ### Back-end
-![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring) ![Hibernate](https://img.shields.io/badge/-Hibernate-808080?style=flat&logoColor=white&logo=hibernate) ![Maven](https://img.shields.io/badge/-Maven-ff0000?style=flat&logoColor=orange&logo=apache) ![Docker](https://img.shields.io/badge/-Docker-3385ff?style=flat&logoColor=white&logo=docker) ![Node](https://img.shields.io/badge/-Node.js-00ab0b?style=flat&logoColor=white&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring) ![Hibernate](https://img.shields.io/badge/-Hibernate-808080?style=flat&logoColor=white&logo=hibernate) ![Maven](https://img.shields.io/badge/-Maven-ff0000?style=flat&logoColor=orange&logo=apache) ![Gradle](https://img.shields.io/badge/-Gradle-599c71?style=flat&logoColor=white&logo=gradle) ![Docker](https://img.shields.io/badge/-Docker-3385ff?style=flat&logoColor=white&logo=docker) ![Node](https://img.shields.io/badge/-Node.js-00ab0b?style=flat&logoColor=white&logo=node.js)
 
 ### Front-end
-![Angular](https://img.shields.io/badge/-Angular-ff0d00?style=flat&logoColor=white&logo=angular) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8c1aff?style=flat&logoColor=white&logo=bootstrap) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-19a7ff?style=flat&logoColor=white&logo=typescript) ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logoColor=white&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-ff0d00?style=flat&logoColor=white&logo=angular) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8c1aff?style=flat&logoColor=white&logo=bootstrap) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-19a7ff?style=flat&logoColor=white&logo=typescript) ![React](https://img.shields.io/badge/-React-000000?style=flat&logoColor=white&logo=react)
 
-### Databases
+### Database
 ![Oracle](https://img.shields.io/badge/-Oracle-ff0d00?style=flat&logoColor=white&logo=oracle) ![PostgreSQL](https://img.shields.io/badge/-Postgresql-19a7ff?style=flat&logoColor=white&logo=postgresql) ![MySQL](https://img.shields.io/badge/-Mysql-19a7ff?style=flat&logoColor=white&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-00d300f?style=flat&logoColor=white&logo=mongodb)
 
-### Cloud Servers
+### Cloud Computing
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4e84f2?style=flat&logoColor=white&logo=google-cloud) ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logoColor=amazon&logo=amazon) ![Heroku](https://img.shields.io/badge/-Heroku-6600ff?style=flat&logoColor=white&logo=heroku)
 
 ### Git
