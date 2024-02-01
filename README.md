@@ -4,7 +4,7 @@ Consulting a worldwide warranty provider headquartered in the San Francisco Bay 
 
 A highly motivated and enthusiastic technology professional, with over four years of experience in software engineering. My diverse background includes working with clients and team members from all around the world, including the USA, Canada, England, Japan, Spain, Mexico, Portugal, India, Vietnam, and Brazil. I am results-driven, passionate about implementing innovative ideas and new technologies, and always seeking to solve diverse customer needs. I thrive in collaborative environments and am dedicated to sharing my knowledge and expertise with others.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-guarido-oliveira/)](https://www.linkedin.com/in/gabriel-guarido-oliveira/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:gabrielguarido.oliveira@gmail.com)](mailto:gabrielguarido.oliveira@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggoliveira/)](https://www.linkedin.com/in/ggoliveira/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:gabrielguarido.oliveira@gmail.com)](mailto:gabrielguarido.oliveira@gmail.com)
 
 ---
 
