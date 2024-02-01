@@ -45,8 +45,8 @@ A highly motivated and enthusiastic technology professional, with over four year
 
 ---
 
-💼 &nbsp; Currently working as a Software Engineer at [Avenue Code](https://www.avenuecode.com/). <br/>
-🚀 &nbsp; Specializing in back-end development with Java. <br/>
+💼 &nbsp; Currently working as a Software Engineer at 👀. <br/>
+🚀 &nbsp; Specialist in software development with Java and Spring. <br/>
 🎓 &nbsp; Graduated in Computer Systems Analysis and Development at [FIAP](https://www.fiap.com.br/). <br/>
 💬 &nbsp; Ask me about anything and I'll be happy to answer or help you to find the answer. <br/>
 
